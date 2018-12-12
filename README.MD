@@ -23,4 +23,4 @@ Suivez l'atelier [Event monitoring de la souscription Azure](Lab_SubscriptionEve
 Suivez l'atelier [Utiliser Event Grid avec les services Azure](Lab_StorageEventGrid/Instructions.md)
 
 ## Lab 3
-Suivez l'atelier [Utiliser les Custom Topics](LAb_CustomTopics/Instructions.md)
+Suivez l'atelier [Utiliser les Custom Topics](Lab_CustomTopics/Instructions.md)
