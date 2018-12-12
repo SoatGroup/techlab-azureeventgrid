@@ -1,12 +1,12 @@
 # Auteurs
 
-## Firas
+## Firas Mdimagh
 
-![]()
+![Firas Mdimagh](http://firas.site/wp-content/uploads/2018/12/Firas-MDIMAGH.jpg)
 * Entreprise : [SOAT](http://soat.fr)
-* Blog : []()
-* Twitter : []()
-* LinkedIn : []()
+* Blog : [https://firas.site](https://firas.site)
+* Twitter : [@Firas_Mdimagh](https://twitter.com/firas_mdimagh)
+* LinkedIn : [/in/FirasMdimagh](https://linkedin.com/in/firasmdimagh)
 
 ## Wilfried Woivré
 
